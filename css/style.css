@@ -21,6 +21,7 @@
     background-color: var(--Paleblue);
     background-image: url(../images/pattern-background-desktop.svg);
     background-repeat: no-repeat;
+    background-size:contain;
     font-size: 16px;
     display: flex;
     align-items:center;
